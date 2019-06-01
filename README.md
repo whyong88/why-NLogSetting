@@ -1,1 +1,1 @@
-"# why-NLogSetting" 
+NLOG 配置部署，自己配置自己舒服
