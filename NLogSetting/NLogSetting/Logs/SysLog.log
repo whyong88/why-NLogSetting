@@ -1,0 +1,32 @@
+2019-06-01 10:53:15.0528 Info Message Template Auto Format enabled
+2019-06-01 10:53:15.0788 Info Loading assembly: NLog.Web.AspNetCore
+2019-06-01 10:53:15.1898 Info Adding target FileTarget(Name=traceFile)
+2019-06-01 10:53:15.2068 Info Adding target FileTarget(Name=warnFile)
+2019-06-01 10:53:15.2068 Info Adding target FileTarget(Name=errFile)
+2019-06-01 10:53:15.2068 Info Adding target FileTarget(Name=console)
+2019-06-01 10:53:15.2068 Info Adding target NullTarget(Name=blackhole)
+2019-06-01 10:53:15.2498 Info Found 113 configuration items
+2019-06-01 10:54:35.0178 Info Message Template Auto Format enabled
+2019-06-01 10:54:35.0338 Info Loading assembly: NLog.Web.AspNetCore
+2019-06-01 10:54:35.1538 Info Adding target FileTarget(Name=traceFile)
+2019-06-01 10:54:35.1728 Info Adding target FileTarget(Name=warnFile)
+2019-06-01 10:54:35.1728 Info Adding target FileTarget(Name=errFile)
+2019-06-01 10:54:35.1728 Info Adding target FileTarget(Name=console)
+2019-06-01 10:54:35.1728 Info Adding target NullTarget(Name=blackhole)
+2019-06-01 10:54:35.2378 Info Found 113 configuration items
+2019-06-01 10:55:42.3678 Info Message Template Auto Format enabled
+2019-06-01 10:55:42.6208 Info Loading assembly: NLog.Web.AspNetCore
+2019-06-01 10:55:42.7488 Info Adding target FileTarget(Name=traceFile)
+2019-06-01 10:55:42.7748 Info Adding target FileTarget(Name=warnFile)
+2019-06-01 10:55:42.7748 Info Adding target FileTarget(Name=errFile)
+2019-06-01 10:55:42.7788 Info Adding target FileTarget(Name=console)
+2019-06-01 10:55:42.7788 Info Adding target NullTarget(Name=blackhole)
+2019-06-01 10:55:42.8398 Info Found 113 configuration items
+2019-06-01 10:57:36.0058 Info Message Template Auto Format enabled
+2019-06-01 10:57:36.0328 Info Loading assembly: NLog.Web.AspNetCore
+2019-06-01 10:57:36.1458 Info Adding target FileTarget(Name=traceFile)
+2019-06-01 10:57:36.1648 Info Adding target FileTarget(Name=warnFile)
+2019-06-01 10:57:36.1648 Info Adding target FileTarget(Name=errFile)
+2019-06-01 10:57:36.1648 Info Adding target FileTarget(Name=console)
+2019-06-01 10:57:36.1648 Info Adding target NullTarget(Name=blackhole)
+2019-06-01 10:57:36.2348 Info Found 113 configuration items

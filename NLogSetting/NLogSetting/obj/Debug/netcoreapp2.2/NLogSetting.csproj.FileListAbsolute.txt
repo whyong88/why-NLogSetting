@@ -1,0 +1,15 @@
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLogSetting.deps.json
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLogSetting.runtimeconfig.json
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLogSetting.runtimeconfig.dev.json
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLogSetting.dll
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.csproj.CoreCompileInputs.cache
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.RazorAssemblyInfo.cache
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.RazorAssemblyInfo.cs
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.AssemblyInfoInputs.cache
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.AssemblyInfo.cs
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.RazorTargetAssemblyInfo.cache
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLogSetting.pdb
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.dll
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.pdb
+D:\book\book\MyProject\NLogSetting\NLogSetting\obj\Debug\netcoreapp2.2\NLogSetting.csprojAssemblyReference.cache
+D:\book\book\MyProject\NLogSetting\NLogSetting\bin\Debug\netcoreapp2.2\NLog.config
